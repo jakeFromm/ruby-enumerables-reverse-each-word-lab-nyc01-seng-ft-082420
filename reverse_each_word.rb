@@ -6,4 +6,4 @@ end
 
 puts reverse_each_word("hello world")
 
-binding.pry
+#binding.pry
