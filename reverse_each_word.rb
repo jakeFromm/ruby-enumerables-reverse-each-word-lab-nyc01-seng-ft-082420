@@ -5,5 +5,5 @@ def reverse_each_word(string)
   new_arr.join(" ")
 end  
 
-#puts reverse_each_word("hello world")
+puts reverse_each_word("hello world")
 
