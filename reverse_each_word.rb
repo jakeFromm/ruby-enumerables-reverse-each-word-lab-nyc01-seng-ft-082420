@@ -6,4 +6,4 @@ end
 
 puts arr
 
-#binding.pry
+binding.pry
