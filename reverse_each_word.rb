@@ -4,6 +4,6 @@ def reverse_each_word(string)
   arr = string.split
 end  
 
-puts arr
+puts reverse_each_word("hello world")
 
 binding.pry
